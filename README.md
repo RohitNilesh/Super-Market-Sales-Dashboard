@@ -35,21 +35,3 @@ To build a dynamic and interactive Power BI dashboard that enables:
 
 ---
 
-## 📂 Folder Structure
-
-```plaintext
-Super_Market_Sales_Dashboard/
-│
-├── Dataset/
-│   └── Sales-Dashboard.xlsx
-│
-├── Docs/
-│   └── SuperMarketSales Dashboard.pdf
-│
-├── Snapshot/
-│   └── SuperMarket Sales Dashboard_page-0001.png
-│
-├── pbix/
-│   └── Sales Dashboard.pbix
-│
-└── README.md
