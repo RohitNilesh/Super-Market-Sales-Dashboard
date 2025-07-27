@@ -41,15 +41,15 @@ To build a dynamic and interactive Power BI dashboard that enables:
 Super_Market_Sales_Dashboard/
 │
 ├── Dataset/
-│   └── Supermarket_Sales_Data.xlsx
+│   └── Sales-Dashboard.xlsx
 │
 ├── Docs/
-│   └── Documentation.pdf
+│   └── SuperMarketSales Dashboard.pdf
 │
 ├── Snapshot/
-│   └── dashboard-preview.png
+│   └── SuperMarket Sales Dashboard_page-0001.png
 │
 ├── pbix/
-│   └── Super_Market_Dashboard.pbix
+│   └── Sales Dashboard.pbix
 │
 └── README.md
